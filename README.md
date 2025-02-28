@@ -1,1 +1,6 @@
-# tils_cnn_classification
+# Automated Classification of Tumor Infiltrating Lymphocytes in Breast Cancer Using Deep Learning Techniques
+
+## Abstract
+
+This study explores the application of deep learning neural networks to accurately
+identify Tumor-Infiltrating Lymphocytes (TILs) in breast cancer histopathology images. Given the intricate details and substantial storage demands of these images, traditional analysis methods often are less efficient and have less accuracy. By utilizing CNN architectures such as AlexNet, ResNet 50, GoogleNet, and VGG 16, we assessed the performance of these models based on top-1 and top-5 accuracy metrics. Our results demonstrated that GoogleNet achieved a perfect classification accuracy of 100%, followed by ResNet 50 with 97.1%, and AlexNet with 94.1%, while VGG-16 was the least outstanding with accuracies of 52.9% and 51.4% respectively. These findings indicate that deep learning models can significantly enhance the identification of TILs, which can offer substantial improvements in diagnostic accuracy, efficiency, and consistency. This research supports the potential of integrating advanced neural networks into medical image analysis workflows, which can lead to enhanced patient outcomes and improved tools for clinical research.
